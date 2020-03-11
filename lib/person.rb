@@ -66,7 +66,6 @@ class Person
 
     myself = Person.new("Christine")
     friend = Person.new("Atticus")
-    binding.pry
  
 end
  
